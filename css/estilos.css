@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin-top: 2em;
+    background-color: #1f1f1f;
+    color: white;
+}
+
+#resultado {
+    font-size: 10em;
+    margin: 1em 0;
+    transition: transform 0.3s;
+}
+
+button {
+    font-size: 1em;
+    padding: 4em;
+}
